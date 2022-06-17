@@ -1,4 +1,4 @@
-### Hi there, this is Edson 👋
+### Hello, my name is Edson. <img src="wave.gif" alt="drawing" width="30"/>
 ✨ Welcome to my repository✨
 
 - 🌱 I’m always learning.
@@ -15,5 +15,10 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoedtos&    count_private=true&show_icons=true&theme=vue)
+
+![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoedtos&    count_private=true&show_icons=true&theme=vue)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoedtos&card_width=445&layout=compact&theme=vue)
